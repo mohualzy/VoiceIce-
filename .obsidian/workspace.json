@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "编程/Python基础.md",
+                "file": "线性代数/行列式.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Python基础"
+              "title": "行列式"
             }
           }
         ],
@@ -175,6 +175,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -185,14 +186,14 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "4c11dd856d52e5dc",
+  "active": "01f6fc675c874fd5",
   "lastOpenFiles": [
-    "言冰项目开发思路/git常用指令.md",
+    "线性代数/重点.md",
     "编程/Python基础.md",
+    "言冰项目开发思路/git常用指令.md",
     "Pasted image 20251202170234.png",
     "Pasted image 20251202170047.png",
     "Pasted image 20251202170022.png",
-    "线性代数/重点.md",
     "线性代数/线性方程组的求解.md",
     "编程/C语言算法.md",
     "编程/C语言小细节.md",
