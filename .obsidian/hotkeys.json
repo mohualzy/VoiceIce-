@@ -1,0 +1,8 @@
+{
+  "app:delete-file": [
+    {
+      "modifiers": [],
+      "key": "F11"
+    }
+  ]
+}
