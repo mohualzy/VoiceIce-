@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "线性代数/行列式.md",
+                "file": "言冰项目开发思路/Git代码协作.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "行列式"
+              "title": "Git代码协作"
             }
           }
         ],
@@ -186,24 +186,24 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "4c11dd856d52e5dc",
+  "active": "01f6fc675c874fd5",
   "lastOpenFiles": [
+    "言冰项目开发思路/github or gitee 源代码学习.md",
+    "言冰项目开发思路/Git代码协作.md",
+    "言冰项目开发思路/git常用指令.md",
+    "线性代数/行列式.md",
     "README.md",
     "线性代数/重点.md",
     "编程/Python基础.md",
-    "言冰项目开发思路/git常用指令.md",
     "Pasted image 20251202170234.png",
     "Pasted image 20251202170047.png",
     "Pasted image 20251202170022.png",
     "线性代数/线性方程组的求解.md",
     "编程/C语言算法.md",
     "编程/C语言小细节.md",
-    "言冰项目开发思路/Git代码协作.md",
-    "言冰项目开发思路/github or gitee 源代码学习.md",
     "工作日志/11.27 日志.md",
     "工作日志",
     "线性代数/矩阵的秩.md",
-    "线性代数/行列式.md",
     "高数/高数.md",
     "线性代数/线性代数.md",
     "Pasted image 20251123103505.png",
