@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "线性代数/重点.md",
+                "file": "高数/积分精选习题.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "重点"
+              "title": "积分精选习题"
             }
           },
           {
@@ -185,24 +185,26 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "4c11dd856d52e5dc",
+  "active": "8ed1b6952f97ec24",
   "lastOpenFiles": [
+    "Pasted image 20251211063828.png",
+    "Pasted image 20251211063801.png",
+    "Pasted image 20251211063643.png",
+    "Pasted image 20251211063610.png",
+    "Pasted image 20251211063556.png",
     "高数/高数.md",
     "高数/积分精选习题.md",
+    "d9332faf65ffc0a58f2cf783118dd3b2.jpg",
+    "5304e83e18d90262bdbc59ba006479a9.jpg",
+    "1086078d872989e9cc103a46e15923de.jpg",
+    "88b51212a43c58c5331307a7de6c9c6c.jpg",
+    "34a33439e10ae733b216ccb3fa046b9b.jpg",
+    "1d90935ae1c287f929fc368bdaebc1ee.jpg",
+    "言冰项目开发思路/git常用指令.md",
+    "线性代数/重点.md",
     "编程/C语言算法.md",
     "线性代数/矩阵的秩.md",
-    "线性代数/重点.md",
     "线性代数/行列式.md",
-    "a05f8ab2b95e7daa302f9f3ac9074c88.jpg",
-    "46758d29da379b512a0e0dacf6928300.jpg",
-    "7255117e668425ffd82ccfd4824554c5.jpg",
-    "b8f67beaded2fd19a60072ad71a4424e.jpg",
-    "e6aeb2972fa3399f6ad80e7b054330f1.jpg",
-    "f5f596f78a00b0c39c5af4eb0679fc37.jpg",
-    "f9c0bf7c4c7a3c0ca1a8e08a770c5abf.jpg",
-    "1e6d5614cd07ba6deb7c148b2f56229b_720 1.png",
-    "1e6d5614cd07ba6deb7c148b2f56229b_720.png",
-    "言冰项目开发思路/git常用指令.md",
     "言冰项目开发思路/github or gitee 源代码学习.md",
     "web开发/《数学与音乐：弦上的方程式》.md",
     "English/Unit1.md",
@@ -212,7 +214,6 @@
     "编程/C语言上机题易错点.md",
     "言冰项目开发思路/Git代码协作.md",
     "README.md",
-    "Pasted image 20251202170234.png",
     "线性代数/线性方程组的求解.md",
     "工作日志",
     "线性代数/线性代数.md",
