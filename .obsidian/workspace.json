@@ -8,31 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8ed1b6952f97ec24",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "线性代数/矩阵的秩.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "矩阵的秩"
-            }
-          },
-          {
             "id": "01f6fc675c874fd5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "高数/高数.md",
-                "mode": "source",
+                "file": "高数/积分精选习题.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "高数"
+              "title": "积分精选习题"
             }
           }
         ]
@@ -185,27 +171,29 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "8ed1b6952f97ec24",
+  "active": "01f6fc675c874fd5",
   "lastOpenFiles": [
-    "线性代数/线性方程组的求解.md",
+    "高数/高数.md",
+    "线性代数/矩阵的秩.md",
     "线性代数/行列式.md",
+    "web开发/未命名.md",
+    "README.md",
+    "编程/C语言算法.md",
+    "编程/C语言易错点.md",
+    "编程/Python基础.md",
+    "线性代数/线性方程组的求解.md",
     "English/作文.md",
     "English/重要语法.md",
     "English/短语.md",
     "English/四级翻译.md",
     "线性代数/重点.md",
     "高数/积分精选习题.md",
-    "高数/高数.md",
     "言冰项目开发思路/Git代码协作.md",
     "言冰项目开发思路/github or gitee 源代码学习.md",
     "言冰项目开发思路/git常用指令.md",
     "Pasted image 20251211212957.png",
-    "线性代数/矩阵的秩.md",
     "Pasted image 20251211205408.png",
     "编程/C语言小细节.md",
-    "编程/Python基础.md",
-    "编程/C语言易错点.md",
-    "编程/C语言算法.md",
     "Pasted image 20251211063828.png",
     "Pasted image 20251211063801.png",
     "Pasted image 20251211063643.png",
@@ -217,7 +205,6 @@
     "web开发/《数学与音乐：弦上的方程式》.md",
     "English/Unit1.md",
     "工作日志/11.27 日志.md",
-    "README.md",
     "工作日志",
     "线性代数/线性代数.md",
     "采访.md",
@@ -232,7 +219,6 @@
     "Excalidraw/Drawing 2025-11-15 18.38.48.excalidraw.md",
     "创建链接.md",
     "未命名 1.canvas",
-    "欢迎.md",
     "Excalidraw"
   ]
 }

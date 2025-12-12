@@ -98,4 +98,4 @@
 [官方下载网址]([Git - Install for Windows](https://git-scm.com/install/windows))
 
 桌面鼠标右击，如果出现这两个选项，说明安装无误
-![[Pasted image 20251123103505.png|200]]
+![Pasted image 20251123103505.png](picture/Pasted%20image%2020251123103505.png)
