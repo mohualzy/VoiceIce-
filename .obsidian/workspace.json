@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "高数/积分精选习题.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
@@ -174,6 +174,7 @@
   "active": "01f6fc675c874fd5",
   "lastOpenFiles": [
     "高数/高数.md",
+    "高数/积分精选习题.md",
     "线性代数/矩阵的秩.md",
     "线性代数/行列式.md",
     "web开发/未命名.md",
@@ -187,7 +188,6 @@
     "English/短语.md",
     "English/四级翻译.md",
     "线性代数/重点.md",
-    "高数/积分精选习题.md",
     "言冰项目开发思路/Git代码协作.md",
     "言冰项目开发思路/github or gitee 源代码学习.md",
     "言冰项目开发思路/git常用指令.md",
