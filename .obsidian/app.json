@@ -7,5 +7,7 @@
     "downscalePercent": 100
   },
   "promptDelete": false,
-  "useMarkdownLinks": true
+  "useMarkdownLinks": true,
+  "smartIndentList": false,
+  "autoPairMarkdown": false
 }

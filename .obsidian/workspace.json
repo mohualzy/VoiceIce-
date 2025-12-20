@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "f8a720a20b91f30b",
+        "id": "d90713c710a3ad7e",
         "type": "tabs",
         "children": [
           {
-            "id": "01f6fc675c874fd5",
+            "id": "ef4728a18a1fa892",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "高数/积分精选习题.md",
+                "file": "README.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "积分精选习题"
+              "title": "README"
             }
           }
         ]
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2025-10-24.md",
+                "file": "高数/米奇妙妙屋.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "2025-10-24 的出链列表"
+              "title": "米奇妙妙屋 的出链列表"
             }
           },
           {
@@ -142,20 +142,31 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2025-10-24.md",
+                "file": "高数/米奇妙妙屋.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2025-10-24 的大纲"
+              "title": "米奇妙妙屋 的大纲"
+            }
+          },
+          {
+            "id": "d50d2155cbb25141",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -171,43 +182,44 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "01f6fc675c874fd5",
+  "active": "ef4728a18a1fa892",
   "lastOpenFiles": [
-    "高数/高数.md",
-    "高数/积分精选习题.md",
+    "web开发/未命名.md",
+    "编程/C语言算法.md",
+    "README.md",
+    "English/作文.md",
+    "高数/常见曲线.md",
+    "高数/高数上册关键点总结.md",
+    "高数/积分精选.md",
+    "高数/米奇妙妙屋.md",
+    "编程/Python基础.md",
+    "编程/C语言小细节.md",
+    "编程/C语言易错点.md",
+    "Pasted image 20251220033219.png",
+    "picture/Pasted image 20251220033223.png",
+    "picture/Pasted image 20251220032809.png",
+    "picture/Pasted image 20251220030152.png",
+    "picture/Pasted image 20251220024139.png",
+    "Pasted image 20251219232747.png",
+    "picture/Pasted image 20251219232820.png",
+    "picture/Pasted image 20251219231254.png",
+    "picture/Pasted.md",
+    "English/四级翻译.md",
+    "Pasted image 20251219222340.png",
+    "picture/Pasted image 20251219222352.png",
+    "English/短语.md",
+    "English/重要语法.md",
+    "编程/numpy库.md",
     "线性代数/矩阵的秩.md",
     "线性代数/行列式.md",
-    "web开发/未命名.md",
-    "README.md",
-    "编程/C语言算法.md",
-    "编程/C语言易错点.md",
-    "编程/Python基础.md",
-    "线性代数/线性方程组的求解.md",
-    "English/作文.md",
-    "English/重要语法.md",
-    "English/短语.md",
-    "English/四级翻译.md",
     "线性代数/重点.md",
+    "线性代数/线性方程组的求解.md",
     "言冰项目开发思路/Git代码协作.md",
     "言冰项目开发思路/github or gitee 源代码学习.md",
     "言冰项目开发思路/git常用指令.md",
-    "Pasted image 20251211212957.png",
-    "Pasted image 20251211205408.png",
-    "编程/C语言小细节.md",
-    "Pasted image 20251211063828.png",
-    "Pasted image 20251211063801.png",
-    "Pasted image 20251211063643.png",
-    "Pasted image 20251211063610.png",
-    "Pasted image 20251211063556.png",
-    "d9332faf65ffc0a58f2cf783118dd3b2.jpg",
-    "5304e83e18d90262bdbc59ba006479a9.jpg",
-    "1086078d872989e9cc103a46e15923de.jpg",
     "web开发/《数学与音乐：弦上的方程式》.md",
     "English/Unit1.md",
-    "工作日志/11.27 日志.md",
     "工作日志",
-    "线性代数/线性代数.md",
-    "采访.md",
     "未命名.base",
     "言冰项目开发思路",
     "web开发",
@@ -216,8 +228,6 @@
     "线性代数",
     "English",
     "编程",
-    "Excalidraw/Drawing 2025-11-15 18.38.48.excalidraw.md",
-    "创建链接.md",
     "未命名 1.canvas",
     "Excalidraw"
   ]

@@ -1,4 +1,6 @@
 [
   "copy-as-html",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-minimal-settings",
+  "obsidian-style-settings"
 ]
