@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "高数/米奇妙妙屋.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "米奇妙妙屋"
             }
           }
         ]
@@ -184,13 +184,14 @@
   },
   "active": "ef4728a18a1fa892",
   "lastOpenFiles": [
+    "高数/积分精选.md",
+    "线性代数/矩阵的秩.md",
+    "README.md",
     "web开发/未命名.md",
     "编程/C语言算法.md",
-    "README.md",
     "English/作文.md",
     "高数/常见曲线.md",
     "高数/高数上册关键点总结.md",
-    "高数/积分精选.md",
     "高数/米奇妙妙屋.md",
     "编程/Python基础.md",
     "编程/C语言小细节.md",
@@ -210,7 +211,6 @@
     "English/短语.md",
     "English/重要语法.md",
     "编程/numpy库.md",
-    "线性代数/矩阵的秩.md",
     "线性代数/行列式.md",
     "线性代数/重点.md",
     "线性代数/线性方程组的求解.md",
